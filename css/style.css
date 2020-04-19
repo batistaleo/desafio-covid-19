@@ -7,6 +7,7 @@
 
 body{
     font-family: "open sans";
+
 }
 
 h3{
@@ -151,4 +152,10 @@ header{
     text-decoration: none;
     color: #3a3a3a;
     margin-bottom: 30px;
+}
+
+/* Estilos da Página Saiba Mais*/
+
+.texto-saiba-mais{
+    text-align: center;
 }
