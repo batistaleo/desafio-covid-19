@@ -20,6 +20,8 @@ p{
     margin-bottom: 20px;
 }
 
+/* Estilos da página home*/
+
 /* Estilos do header */
 
 header{
@@ -108,3 +110,45 @@ header{
     text-decoration: none;
 }
 
+/* Estilos da página Sobre*/
+
+.container-sobre{
+    display: flex;
+    margin: 100px;
+    justify-content: center;
+}
+
+.img-sobre{
+    width: 35%;
+}
+
+.foto{
+    width: 250px;
+}
+
+.texto-sobre h1{
+    margin-bottom: 10px;
+    color:rgb(139, 0, 2);
+}
+
+.texto-sobre{
+    width: 65%;
+}
+
+.icons{
+    width: 35px;
+}
+
+.logo-social{
+    margin-top: 20px;
+}
+
+.logo-social div{
+    margin-bottom: 12px;
+}
+
+.logo-social a{
+    text-decoration: none;
+    color: #3a3a3a;
+    margin-bottom: 30px;
+}
