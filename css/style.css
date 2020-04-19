@@ -1,0 +1,38 @@
+/* Estilos Globais */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos do header */
+
+header{
+    display: flex;
+    background-color: #f2f2f2;
+    padding: 10px 0;
+    width: 100%;  
+}
+
+.logo{
+    margin-left: 50px;
+    width: 20%;
+}
+
+.menu{
+    display: flex;
+    margin-top: 50px;
+    width: 80%;
+}
+
+.item-menu a{
+    margin-left: 50px;
+    color:#C30205;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.item-menu a:hover{
+    color:rgb(139, 0, 2);
+}
