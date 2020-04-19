@@ -159,3 +159,11 @@ header{
 .texto-saiba-mais{
     text-align: center;
 }
+
+/* Estilo da página Contato*/
+
+.container-contato{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
